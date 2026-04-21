@@ -1,5 +1,5 @@
 # ✊✋✌️ Game Jokenpo
-Tratra-se de um jogo onde o jogador contra o computador, escolhendo entre pedra, papel ou tesoura.
+O jogador joga contra o computador, escolhendo a imagem da pedra, papel ou tesoura.
 Depois que selecionar a opção, automaticamente aparecera tambem a do computador e também o resultado.
 
 ## 🧠 Lógica de Comparação
